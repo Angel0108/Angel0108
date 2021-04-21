@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Angel0108
 - 👀 I’m interested in develop projects. Backend develop and devops.
-- 🌱 I’m currently learning project architecture 
-- 💞️ I’m looking to collaborate on own projects 
+- 🌱 I’m currently learning project architecture.
 - 📫 How to reach me: riosangelp@gmail.com
 
 <!---
